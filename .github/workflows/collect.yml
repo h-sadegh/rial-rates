@@ -1,0 +1,39 @@
+name: collect-rates
+
+on:
+  schedule:
+    - cron: "0 * * * *" # hourly, UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-rates
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run collector
+        run: python collector.py
+
+      - name: Commit and push archive
+        run: |
+          git config user.name "rates-bot"
+          git config user.email "actions@github.com"
+          git add -A data latest.json
+          if git diff --cached --quiet; then
+            echo "No changes; skipping commit."
+            exit 0
+          fi
+          git commit -m "data: rates snapshot $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
