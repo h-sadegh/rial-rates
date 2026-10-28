@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-10-28T13:49:53+03:30",
+  "updated_at": "2026-10-28T13:51:03+03:30",
   "timezone": "Asia/Tehran",
   "sources": [
     "tgju"
   ],
   "rates": {
     "usd_tmn": {
-      "price": 2688100,
-      "change_amount": 6900,
-      "change_percent": 0.26,
-      "source_time": "2026-10-28 13:49:42"
+      "price": 2685000,
+      "change_amount": 10000,
+      "change_percent": 0.37,
+      "source_time": "2026-10-28 13:50:33"
     },
     "eur_tmn": {
-      "price": 2993900,
-      "change_amount": 12800,
+      "price": 2993700,
+      "change_amount": 13000,
       "change_percent": 0.43,
-      "source_time": "2026-10-28 13:49:43"
+      "source_time": "2026-10-28 13:50:50"
     },
     "gbp_tmn": {
-      "price": 3577000,
-      "change_amount": 16600,
-      "change_percent": 0.46,
-      "source_time": "2026-10-28 13:49:43"
+      "price": 3576800,
+      "change_amount": 16800,
+      "change_percent": 0.47,
+      "source_time": "2026-10-28 13:50:51"
     },
     "emami_coin_tmn": {
-      "price": 2674600000,
-      "change_amount": 14900000,
-      "change_percent": 0.56,
-      "source_time": "2026-10-28 13:49:40"
+      "price": 2674150000,
+      "change_amount": 14450000,
+      "change_percent": 0.54,
+      "source_time": "2026-10-28 13:50:53"
     },
     "half_coin_tmn": {
       "price": 1405200000,
@@ -36,16 +36,16 @@
       "source_time": "2026-10-28 13:00:44"
     },
     "gram_gold_18k_tmn": {
-      "price": 264781000,
-      "change_amount": 2708000,
+      "price": 264772000,
+      "change_amount": 2699000,
       "change_percent": 1.03,
-      "source_time": "2026-10-28 13:49:38"
+      "source_time": "2026-10-28 13:50:50"
     },
     "btc_tmn": {
-      "price": 219782863000,
-      "change_amount": 2470401000,
-      "change_percent": 1.14,
-      "source_time": "2026-10-28 13:47:44"
+      "price": 219766561000,
+      "change_amount": 2454099000,
+      "change_percent": 1.13,
+      "source_time": "2026-10-28 13:50:54"
     }
   },
   "history": "data/{year}/{month}/{day}.json"
