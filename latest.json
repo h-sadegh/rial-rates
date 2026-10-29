@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T23:26:23+03:30",
+  "updated_at": "2026-10-30T03:14:15+03:30",
   "timezone": "Asia/Tehran",
   "sources": [
     "tgju"
@@ -7,45 +7,45 @@
   "rates": {
     "usd_tmn": {
       "price": 2710600,
-      "change_amount": 15600,
-      "change_percent": 0.58,
-      "source_time": "2026-10-29 16:59:57"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-10-29 00:00:00"
     },
     "eur_tmn": {
       "price": 3019000,
-      "change_amount": 14700,
-      "change_percent": 0.49,
-      "source_time": "2026-10-29 16:59:54"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-10-29 00:00:00"
     },
     "gbp_tmn": {
       "price": 3616900,
-      "change_amount": 27200,
-      "change_percent": 0.76,
-      "source_time": "2026-10-29 16:59:54"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-10-29 00:00:00"
     },
     "emami_coin_tmn": {
       "price": 2667850000,
-      "change_amount": 8850000,
-      "change_percent": 0.33,
-      "source_time": "2026-10-29 16:59:56"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-10-29 00:00:00"
     },
     "half_coin_tmn": {
       "price": 1403900000,
-      "change_amount": 1200000,
-      "change_percent": 0.09,
-      "source_time": "2026-10-29 14:04:43"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-10-29 00:00:00"
     },
     "gram_gold_18k_tmn": {
       "price": 262235000,
-      "change_amount": 1849000,
-      "change_percent": 0.71,
-      "source_time": "2026-10-29 16:59:53"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-10-29 00:00:00"
     },
     "btc_tmn": {
-      "price": 219645774000,
-      "change_amount": 20433000,
-      "change_percent": 0.01,
-      "source_time": "2026-10-29 23:25:51"
+      "price": 213153558000,
+      "change_amount": 4784755000,
+      "change_percent": 2.24,
+      "source_time": "2026-10-30 03:13:40"
     }
   },
   "history": "data/{year}/{month}/{day}.json"
