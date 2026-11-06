@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T05:24:11+03:30",
+  "updated_at": "2026-11-06T12:12:49+03:30",
   "timezone": "Asia/Tehran",
   "sources": [
     "tgju"
@@ -42,10 +42,10 @@
       "source_time": "2026-11-05 00:00:00"
     },
     "btc_tmn": {
-      "price": 206939019000,
-      "change_amount": 324359000,
-      "change_percent": 0.16,
-      "source_time": "2026-11-06 05:23:37"
+      "price": 205266662000,
+      "change_amount": 1347998000,
+      "change_percent": 0.66,
+      "source_time": "2026-11-06 12:11:09"
     }
   },
   "history": "data/{year}/{month}/{day}.json"
