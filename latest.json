@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T20:19:55+03:30",
+  "updated_at": "2026-11-09T00:21:46+03:30",
   "timezone": "Asia/Tehran",
   "sources": [
     "tgju"
@@ -7,45 +7,45 @@
   "rates": {
     "usd_tmn": {
       "price": 2649000,
-      "change_amount": 12100,
-      "change_percent": 0.46,
-      "source_time": "2026-11-08 18:27:57"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-11-08 00:00:00"
     },
     "eur_tmn": {
       "price": 2957500,
-      "change_amount": 13200,
-      "change_percent": 0.45,
-      "source_time": "2026-11-08 18:28:07"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-11-08 00:00:00"
     },
     "gbp_tmn": {
       "price": 3539200,
-      "change_amount": 15900,
-      "change_percent": 0.45,
-      "source_time": "2026-11-08 18:28:07"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-11-08 00:00:00"
     },
     "emami_coin_tmn": {
       "price": 2574100000,
-      "change_amount": 14050000,
-      "change_percent": 0.55,
-      "source_time": "2026-11-08 18:27:57"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-11-08 00:00:00"
     },
     "half_coin_tmn": {
       "price": 1355300000,
-      "change_amount": 11400000,
-      "change_percent": 0.84,
-      "source_time": "2026-11-08 18:22:45"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-11-08 00:00:00"
     },
     "gram_gold_18k_tmn": {
       "price": 254171000,
-      "change_amount": 1769000,
-      "change_percent": 0.7,
-      "source_time": "2026-11-08 18:27:55"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-11-08 00:00:00"
     },
     "btc_tmn": {
       "price": 202290204000,
-      "change_amount": 307836000,
-      "change_percent": 0.15,
-      "source_time": "2026-11-08 18:26:08"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-11-08 00:00:00"
     }
   },
   "history": "data/{year}/{month}/{day}.json"
