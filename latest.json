@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T23:03:45+03:30",
+  "updated_at": "2026-11-15T02:58:46+03:30",
   "timezone": "Asia/Tehran",
   "sources": [
     "tgju"
@@ -7,45 +7,45 @@
   "rates": {
     "usd_tmn": {
       "price": 2699000,
-      "change_amount": 30000,
-      "change_percent": 1.12,
-      "source_time": "2026-11-14 19:59:58"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-11-14 00:00:00"
     },
     "eur_tmn": {
       "price": 2978800,
-      "change_amount": 9500,
-      "change_percent": 0.32,
-      "source_time": "2026-11-14 19:59:53"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-11-14 00:00:00"
     },
     "gbp_tmn": {
       "price": 3564900,
-      "change_amount": 20000,
-      "change_percent": 0.56,
-      "source_time": "2026-11-14 19:59:53"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-11-14 00:00:00"
     },
     "emami_coin_tmn": {
       "price": 2525150000,
-      "change_amount": 14500000,
-      "change_percent": 0.57,
-      "source_time": "2026-11-14 19:59:58"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-11-14 00:00:00"
     },
     "half_coin_tmn": {
       "price": 1328600000,
-      "change_amount": 3300000,
-      "change_percent": 0.25,
-      "source_time": "2026-11-14 18:03:34"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-11-14 00:00:00"
     },
     "gram_gold_18k_tmn": {
       "price": 247945000,
-      "change_amount": 2443000,
-      "change_percent": 0.99,
-      "source_time": "2026-11-14 19:59:58"
+      "change_amount": 0,
+      "change_percent": 0,
+      "source_time": "2026-11-14 00:00:00"
     },
     "btc_tmn": {
-      "price": 177204355000,
-      "change_amount": 8565537000,
-      "change_percent": 4.83,
-      "source_time": "2026-11-14 23:01:10"
+      "price": 172429896000,
+      "change_amount": 5132662000,
+      "change_percent": 2.98,
+      "source_time": "2026-11-15 02:58:14"
     }
   },
   "history": "data/{year}/{month}/{day}.json"
