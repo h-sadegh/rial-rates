@@ -1,51 +1,51 @@
 {
-  "updated_at": "2026-11-15T07:10:28+03:30",
+  "updated_at": "2026-11-15T15:07:15+03:30",
   "timezone": "Asia/Tehran",
   "sources": [
     "tgju"
   ],
   "rates": {
     "usd_tmn": {
-      "price": 2699000,
-      "change_amount": 0,
-      "change_percent": 0,
-      "source_time": "2026-11-14 00:00:00"
+      "price": 2659000,
+      "change_amount": 40000,
+      "change_percent": 1.5,
+      "source_time": "2026-11-15 15:06:41"
     },
     "eur_tmn": {
-      "price": 2978800,
-      "change_amount": 0,
-      "change_percent": 0,
-      "source_time": "2026-11-14 00:00:00"
+      "price": 2937100,
+      "change_amount": 41700,
+      "change_percent": 1.42,
+      "source_time": "2026-11-15 15:06:48"
     },
     "gbp_tmn": {
-      "price": 3564900,
-      "change_amount": 0,
-      "change_percent": 0,
-      "source_time": "2026-11-14 00:00:00"
+      "price": 3514900,
+      "change_amount": 50000,
+      "change_percent": 1.42,
+      "source_time": "2026-11-15 15:06:49"
     },
     "emami_coin_tmn": {
-      "price": 2525150000,
-      "change_amount": 0,
-      "change_percent": 0,
-      "source_time": "2026-11-14 00:00:00"
+      "price": 2498950000,
+      "change_amount": 26200000,
+      "change_percent": 1.05,
+      "source_time": "2026-11-15 15:06:56"
     },
     "half_coin_tmn": {
-      "price": 1328600000,
-      "change_amount": 0,
-      "change_percent": 0,
-      "source_time": "2026-11-14 00:00:00"
+      "price": 1324700000,
+      "change_amount": 3900000,
+      "change_percent": 0.29,
+      "source_time": "2026-11-15 14:59:12"
     },
     "gram_gold_18k_tmn": {
-      "price": 247945000,
-      "change_amount": 0,
-      "change_percent": 0,
-      "source_time": "2026-11-14 00:00:00"
+      "price": 245053000,
+      "change_amount": 2892000,
+      "change_percent": 1.18,
+      "source_time": "2026-11-15 15:06:57"
     },
     "btc_tmn": {
-      "price": 176042639000,
-      "change_amount": 1519919000,
-      "change_percent": 0.86,
-      "source_time": "2026-11-15 07:08:08"
+      "price": 175537462000,
+      "change_amount": 2025096000,
+      "change_percent": 1.15,
+      "source_time": "2026-11-15 15:06:43"
     }
   },
   "history": "data/{year}/{month}/{day}.json"
