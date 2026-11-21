@@ -1,0 +1,55 @@
+{
+  "date": "22",
+  "samples": [
+    {
+      "fetched_at": "2026-11-22T00:47:42+03:30",
+      "sources": [
+        "tgju"
+      ],
+      "rates": {
+        "usd_tmn": {
+          "price": 2689600,
+          "change_amount": 0,
+          "change_percent": 0,
+          "source_time": "2026-11-21 00:00:00"
+        },
+        "eur_tmn": {
+          "price": 2955600,
+          "change_amount": 0,
+          "change_percent": 0,
+          "source_time": "2026-11-21 00:00:00"
+        },
+        "gbp_tmn": {
+          "price": 3520900,
+          "change_amount": 0,
+          "change_percent": 0,
+          "source_time": "2026-11-21 00:00:00"
+        },
+        "emami_coin_tmn": {
+          "price": 2367300000,
+          "change_amount": 0,
+          "change_percent": 0,
+          "source_time": "2026-11-21 00:00:00"
+        },
+        "half_coin_tmn": {
+          "price": 1252900000,
+          "change_amount": 0,
+          "change_percent": 0,
+          "source_time": "2026-11-21 00:00:00"
+        },
+        "gram_gold_18k_tmn": {
+          "price": 229470000,
+          "change_amount": 0,
+          "change_percent": 0,
+          "source_time": "2026-11-21 00:00:00"
+        },
+        "btc_tmn": {
+          "price": 164671761000,
+          "change_amount": 46180000,
+          "change_percent": 0.03,
+          "source_time": "2026-11-22 00:46:44"
+        }
+      }
+    }
+  ]
+}
