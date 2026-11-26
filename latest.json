@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T09:21:08+03:30",
+  "updated_at": "2026-11-26T19:28:07+03:30",
   "timezone": "Asia/Tehran",
   "sources": [
     "tgju"
@@ -9,43 +9,43 @@
       "price": 2928900,
       "change_amount": 0,
       "change_percent": 0,
-      "source_time": "2026-11-25 00:00:00"
+      "source_time": "2026-11-26 16:59:59"
     },
     "eur_tmn": {
-      "price": 3218000,
-      "change_amount": 0,
-      "change_percent": 0,
-      "source_time": "2026-11-25 00:00:00"
+      "price": 3221500,
+      "change_amount": 3500,
+      "change_percent": 0.11,
+      "source_time": "2026-11-26 16:59:58"
     },
     "gbp_tmn": {
-      "price": 3835200,
-      "change_amount": 0,
-      "change_percent": 0,
-      "source_time": "2026-11-25 00:00:00"
+      "price": 3838900,
+      "change_amount": 3700,
+      "change_percent": 0.1,
+      "source_time": "2026-11-26 16:59:58"
     },
     "emami_coin_tmn": {
-      "price": 2612750000,
-      "change_amount": 0,
-      "change_percent": 0,
-      "source_time": "2026-11-25 00:00:00"
+      "price": 2647350000,
+      "change_amount": 34600000,
+      "change_percent": 1.32,
+      "source_time": "2026-11-26 16:59:59"
     },
     "half_coin_tmn": {
-      "price": 1399400000,
-      "change_amount": 0,
-      "change_percent": 0,
-      "source_time": "2026-11-25 00:00:00"
+      "price": 1416600000,
+      "change_amount": 17200000,
+      "change_percent": 1.23,
+      "source_time": "2026-11-26 16:41:05"
     },
     "gram_gold_18k_tmn": {
-      "price": 254755000,
-      "change_amount": 0,
-      "change_percent": 0,
-      "source_time": "2026-11-25 00:00:00"
+      "price": 257978000,
+      "change_amount": 3223000,
+      "change_percent": 1.27,
+      "source_time": "2026-11-26 16:59:57"
     },
     "btc_tmn": {
-      "price": 178626925000,
-      "change_amount": 2634104000,
-      "change_percent": 1.5,
-      "source_time": "2026-11-26 09:20:49"
+      "price": 180865040000,
+      "change_amount": 4872219000,
+      "change_percent": 2.77,
+      "source_time": "2026-11-26 19:27:38"
     }
   },
   "history": "data/{year}/{month}/{day}.json"
